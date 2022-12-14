@@ -17,11 +17,14 @@ I have experience working with fortune 500 companies and
 stakeholders across the globe i.e. from US, Central Europe and
 Nordics.
 </p>
+
 --- 
+
 To know more reach/connect/follow me @ &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-naresh--kumar--yadav-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naresh-kumar-yadav/)](https://www.linkedin.com/in/naresh-kumar-yadav/)
 [![Gmail Badge](https://img.shields.io/badge/-nareshkumar310388-informational?style=flat-square&logo=gmail&logoColor=white&link=mailto:nareshkumar310388@gmail.com/)](mailto:nareshkumar310388@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-nareshkumar310388-informational?style=flat-square&logo=twitter&logoColor=white&link=mailto:nareshkumar310388@gmail.com/)](mailto:nareshkumar310388@gmail.com/)
+
 ---
 
 ### 🛠 &nbsp; I love woking or talking about :
@@ -39,42 +42,40 @@ To know more reach/connect/follow me @ &nbsp;
 </p>
 <p>
     Database technologies:
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="dynamodb" alt="dynamodb" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
 </p>
+
 <p>
     Frontend technologies: 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Nuxtjs" alt="Nuxtjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="nodejs" alt="nodejs " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxtjs" alt="Nuxtjs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 <p>
     Tools and frameworks:
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="s3" alt="s3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="sqs" alt="sqs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="sns" alt="sns" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="lambda" alt="lambda" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="kafka" alt="kafka" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="serverless" alt="serverless" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="40" height="40"/>&nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="serverless" alt="serverless" width="40" height="40"/>&nbsp; -->
 </p>
-<p>
-    I have special Interests in:
-    - Infrastructure as Code
-    -  ML Ops
-    - OWASP (Application Security)
-    - Test Driven Development
-    - Domain Driven Development
-    - Behaviour Driven Development
-</p>
+
+---
+
+I have special Interests in:
+- ⚡ Infrastructure as Code
+- ⚡ ML Ops
+- ⚡ Event Driven Development
+- ⚡ OWASP (Application Security)
+- ⚡ Test Driven Development
+- ⚡ Domain Driven Development
+- ⚡ Behaviour Driven Development
 
 ---
 
