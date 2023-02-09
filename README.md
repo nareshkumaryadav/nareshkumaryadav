@@ -27,7 +27,8 @@ To know more reach/connect/follow me @ &nbsp;
 
 ---
 <div style="background: #e6ffe6; color: #20c997">
-### 🛠 &nbsp; I love working with or talking about :
+
+    ### 🛠 &nbsp; I love working with or talking about :
 
 
 <p>
@@ -69,7 +70,7 @@ To know more reach/connect/follow me @ &nbsp;
 
 ---
 
-I have special Interests in:
+### I have special Interests in:
 - ⚡ Infrastructure as Code
 - ⚡ ML Ops
 - ⚡ Event Driven Development
