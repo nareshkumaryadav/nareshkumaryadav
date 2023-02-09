@@ -66,6 +66,7 @@ To know more reach/connect/follow me @ &nbsp;
     <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="serverless" alt="serverless" width="40" height="40"/>&nbsp; -->
 </p>
 </div>
+
 ---
 
 I have special Interests in:
